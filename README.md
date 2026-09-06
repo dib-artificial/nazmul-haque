@@ -4,5 +4,5 @@
 I am researching and building non-transformer, real-time continuous learning architectures designed for dynamic robotics and edge IoT environments.
 
 - 🧬 **Focus:** Continuous Learning Engines, Autonomous Robotics, Edge Computing.
-- 🌐 **Website:** [neural-agi.com](https://neural-agi.com/agi/)
+- 🌐 **Website:** neural-agi.com
 - 🤝 **Collaboration:** Open to strategic partnerships and policy governance alignment.
