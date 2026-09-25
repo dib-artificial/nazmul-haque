@@ -7,5 +7,5 @@ I am researching and building non-transformer, real-time continuous learning arc
 - 🌐 **Website:** neural-agi.com
 - 🤝 **Collaboration:** Open to strategic partnerships and policy governance alignment.
 - - 🧬 **Focus:** Continuous Learning Engines, Autonomous Robotics, Edge Computing.
-- 🌐 **Website:** neural-agi.com
+- 🌐 **Website:** neural-agi.com / dibsoftiot.com
 - 🤝 **Collaboration:** Open to strategic partnerships and policy governance alignment.
